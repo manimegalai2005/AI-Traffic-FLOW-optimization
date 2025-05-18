@@ -73,9 +73,7 @@ YOLOv8 model (yolov8n.pt) is auto-downloaded by Ultralytics when first used.
 
 All code is written in pure Python — no Flask, Django, or external GUIs.
 
-👨‍💻 Author
-Created by [G.Rishika]
-[ GitHub Profile: Rishika112023243026]
+
 
 📄 License
 Open-source project available under the MIT License.
